@@ -1,0 +1,3 @@
+org/acme/events/AppLifecycleBean.class
+org/acme/quickstart/GreetingService.class
+org/acme/quickstart/GreetingResource.class
